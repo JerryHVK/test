@@ -3,4 +3,6 @@ using namespace std;
 
 int main(){
     cout << "Hello World!";
+    int n = 100;
+    cout << n/2;
 }
